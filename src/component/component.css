@@ -1,0 +1,20 @@
+.nav-title {
+    margin-top: 50px;
+}
+
+.inputBox {
+    padding: 0.2rem;
+    width: 95%;
+    border: black 1px solid;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 1rem;
+}
+
+.inputBox:focus {
+    box-shadow: 10px 5px 5px lightblue;;
+}
+
+.table tbody tr td{
+    vertical-align: middle;
+}
